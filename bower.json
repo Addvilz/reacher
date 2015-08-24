@@ -1,0 +1,23 @@
+{
+  "name": "reacher",
+  "version": "1.0.0",
+  "authors": [
+    "Matiss Treinis <mrtreinis@gmail.com>"
+  ],
+  "description": "A light-weight request-value bus",
+  "main": "dist/reacher.js",
+  "keywords": [
+    "reacher",
+    "command",
+    "bus"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Addvilz/reacher",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

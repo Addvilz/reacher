@@ -1,0 +1,24 @@
+{
+  "name": "reacher",
+  "version": "1.0.0",
+  "description": "Reacher is light-weight request-value bus.",
+  "main": "dist/reacher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Addvilz/reacher.git"
+  },
+  "keywords": [
+    "reacher",
+    "command",
+    "bus"
+  ],
+  "author": "Matiss Treinis <mrtreinis@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Addvilz/reacher/issues"
+  },
+  "homepage": "https://github.com/Addvilz/reacher"
+}
